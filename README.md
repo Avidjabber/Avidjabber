@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Avidjabber
+- 👀 I’m interested in ... Web Development & Minecraft Modding
+- 🌱 I’m currently learning ... Java, C#, Angular, & .net core
+- 💞️ I’m looking to collaborate on ... many different kinds of projects!
